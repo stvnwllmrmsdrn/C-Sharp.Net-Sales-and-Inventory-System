@@ -1,0 +1,77 @@
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\bin\Debug\OOP-Project-SalesAndInventory.exe
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\bin\Debug\OOP-Project-SalesAndInventory.pdb
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.Properties.Resources.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP-Project-SalesAndInventory.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP-Project-SalesAndInventory.exe
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP-Project-SalesAndInventory.pdb
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmMain.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmHome.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmStaff.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmCategory.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmProduct.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmDailySales.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmStockIn.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmStockOut.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP-Project-SalesAndInventory.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmAddStaff.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmAddCategory.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmAddProduct.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmLogin.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\bin\Debug\OOP-Project-SalesAndInventory.exe.config
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmReportDailySales.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmReportStockIn.resources
+C:\Users\asus\Desktop\My Example Program\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmReportStockOut.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\bin\Debug\OOP-Project-SalesAndInventory.exe.config
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\bin\Debug\OOP-Project-SalesAndInventory.exe
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\bin\Debug\OOP-Project-SalesAndInventory.pdb
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP-Project-SalesAndInventory.csprojAssemblyReference.cache
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmAddCategory.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmAddProduct.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmAddStaff.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmCategory.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmDailySales.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmHome.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmLogin.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmMain.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmProduct.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmReportDailySales.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmReportStockIn.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmReportStockOut.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmStockIn.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmStockOut.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.Properties.Resources.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmStaff.resources
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP-Project-SalesAndInventory.csproj.GenerateResource.cache
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP-Project-SalesAndInventory.csproj.CoreCompileInputs.cache
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP-Project-SalesAndInventory.exe
+C:\Users\Punzal\Desktop\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP-Project-SalesAndInventory.pdb
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\bin\Debug\OOP-Project-SalesAndInventory.exe.config
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP-Project-SalesAndInventory.exe
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP-Project-SalesAndInventory.pdb
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\bin\Debug\OOP-Project-SalesAndInventory.exe
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\bin\Debug\OOP-Project-SalesAndInventory.pdb
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP-Project-SalesAndInventory.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmAddCategory.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmAddProduct.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmAddStaff.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmCategory.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmDailySales.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmHome.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmLogin.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmMain.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmProduct.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmReportDailySales.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmReportStockIn.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmReportStockOut.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmStockIn.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmStockOut.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.Properties.Resources.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmStaff.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP-Project-SalesAndInventory.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmAddStockIn.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmLoadCategory.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmAbout.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmAddCustomer.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmCustomer.resources
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\bin\Debug\OOP-DATABASE.accdb
+C:\Users\asus\Desktop\OOP-Project-SalesAndInventory_v2\OOP-Project-SalesAndInventory\OOP-Project-SalesAndInventory\obj\x86\Debug\OOP_Project_SalesAndInventory.frmLoadProduct.resources
